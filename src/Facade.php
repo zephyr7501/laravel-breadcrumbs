@@ -1,4 +1,4 @@
-<?php namespace DaveJamesMiller\Breadcrumbs;
+<?php namespace zephyr7501\Breadcrumbs;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 
